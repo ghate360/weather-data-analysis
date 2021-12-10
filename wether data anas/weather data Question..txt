@@ -1,0 +1,29 @@
+
+
+Q1. find all the unique'Wind Speed' values in the data
+
+Q2. find the number of times when the "wether is exactly clear"
+
+Q3. Find the number of times when the "wind speed was exactly 4 km/h".
+
+Q4. find out all the Null values in the data
+
+Q5. what is the mean "visibility"
+
+Q6. what is the stabdard Deviation of "Pressure " in this data
+
+Q7. Whats is the variance of "Relative Humidity " in tis data.
+
+Q8. Find all instances when Snow was Recorded.
+
+Q9. Find all instance when wind speed is above 24' and visibility is 25
+
+Q10. What is the mean value of each column against each 'Wether condition'
+
+Q11. What is the Minimum & Maximum value of each column against each Weather Condition
+
+Q12. Show all the records where Weather Condition is Fog.
+
+Q13. find all instance when 'Weather is clear' or 'visibility is above 40'
+
+Q14. Find all instance when:(A weather is clear and Relative humidility is greater than 50'.
